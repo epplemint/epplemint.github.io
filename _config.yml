@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "exploring where, "
 title_separator          : ";"
-subtitle                 :  and define the problems # site tagline that appears below site title in masthead
+subtitle                 :  defining the problem # site tagline that appears below site title in masthead
 name                     : "David Bak"
 description              : #
 url                      : epplemint.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
