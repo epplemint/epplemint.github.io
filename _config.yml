@@ -119,7 +119,7 @@ author:
       # url: "https://instagram.com/"
 
 # Site Footer
-footer:
+footer: test
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
