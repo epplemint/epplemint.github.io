@@ -2,11 +2,11 @@
 main:
   - title: "Quick-Start Guide"
     url: /docs/quick-start-guide/
-  - title: "Posts"
+  - title: "포스트"
     url: /year-archive/
-  - title: "Categories"
+  - title: "분류"
     url: /categories/
-  - title: "Tags"
+  - title: "키워드"
     url: /tags/
   - title: "Pages"
     url: /page-archive/
@@ -25,5 +25,16 @@ docs:
       - title: "Installation"
         url: /docs/installation/
       - title: "Upgrading"
+        url: /docs/upgrading/
+
+  - title: 한글메뉴
+    children:
+      - title: "디자인"
+        url: /docs/quick-start-guide/
+      - title: "전환"
+        url: /docs/structure/
+      - title: "애니메이션"
+        url: /docs/installation/
+      - title: "슬라이드쇼"
         url: /docs/upgrading/
         
