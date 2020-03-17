@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirtmine" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "공간에 질문하고, 문제를 찾습니다."
+title                    : "공간에질문하고문제를찾습니다"
 title_separator          : ";"
 subtitle                 :  "exploring where, and define the problem." # site tagline that appears below site title in masthead
 name                     : "David Bak"
