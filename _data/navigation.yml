@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "subjects"
-    url: /subjects/
+  - title: "topics"
+    url: /topics/
   - title: "tags"
     url: /tags/
 #  - title: "collection"
