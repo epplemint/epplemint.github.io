@@ -4,10 +4,11 @@ main:
     url: /topics/
   - title: "tags"
     url: /tags/
-#  - title: "collection"
-#    url: /collection-archive/
   - title: "about"
     url: /about/
+#  - title: "collection"
+#    url: /collection-archive/
+
   
 docs:
   - title: Menu
