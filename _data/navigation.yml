@@ -7,7 +7,7 @@ main:
 #  - title: "collection"
 #    url: /collection-archive/
   - title: "about"
-    url: /about/
+    url: /about
   
 docs:
   - title: Menu
