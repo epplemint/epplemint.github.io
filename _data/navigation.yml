@@ -4,10 +4,8 @@ main:
     url: /subjects/
   - title: "tags"
     url: /tags/
-  - title: "pages"
-    url: /page-archive/
-  - title: "collection"
-    url: /collection-archive/
+#  - title: "collection"
+#    url: /collection-archive/
   - title: "about"
     url: /about/
   
