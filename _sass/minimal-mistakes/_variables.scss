@@ -6,7 +6,10 @@
    Typography
    ========================================================================== */
 
-$doc-font-size: 16 !default;
+$doc-font-size: 14 !default;
+$font-family-main: 'Noto+Sans+KR', san-serif;
+$font-family-headings: 'Noto+Sans+KR', san-serif;
+$font-size: 1em;
 
 /* paragraph indention */
 $paragraph-indent: false !default; // true, false (default)
