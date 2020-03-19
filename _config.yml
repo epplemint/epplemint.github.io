@@ -280,4 +280,4 @@ defaults:
       share: true
       related: true
 
-google_fonts: "Noto+Sans+KR:100,300,400,500,700,900"
+google_fonts: "Noto Sans KR"
