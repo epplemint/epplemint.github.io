@@ -9,4 +9,4 @@ $sans-serif: 'Noto Sans KR';
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR:300,900&display=swap&subset=korean'); //google webfonts
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR:100,300,400,500,700&display=swap&subset=korean'); //google webfonts
