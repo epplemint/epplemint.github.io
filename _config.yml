@@ -279,5 +279,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
-google_fonts: "Noto Sans KR"
