@@ -1,5 +1,5 @@
 ---
-title:  "공간에 질문하고 문제를 찾습니다. "
+title:  "연구 제안서(research proposal)에서부터 시작"
 header:
 categories: 
   - Research
