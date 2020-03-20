@@ -6,13 +6,13 @@
 $background-color: #fafafa !default;
 $text-color: #1d1d1f !default;
 $muted-text-color: #86868b !default;
-$primary-color: #1d1d1f !default;
+$primary-color: #ea4235 !default;
 $border-color: #e4e4e4 !default;
 $footer-background-color: #ededed !default;
 $link-color: #4285f4 !default;
 $masthead-link-color: $text-color !default;
-$masthead-link-color-hover: #ea4235 !default;
-$navicon-link-color-hover: #ea4235 !default;
+$masthead-link-color-hover: $text-color !default;
+$navicon-link-color-hover: mix(#fff, $text-color, 30%) !default;
 
 /* dirt syntax highlighting (base16) */
 $base00: #231e18 !default;
