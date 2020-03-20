@@ -6,6 +6,7 @@ categories:
 tags:
   - update
 toc: true
+toc_sticky: false
 toc_label: "Getting Started"
 ---
 
