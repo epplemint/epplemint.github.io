@@ -56,7 +56,13 @@ body {
     clear: both;
 
     .page__content,
+      font-weight: 300;
+      font-size: 0.92em;
+      line-height: 1.8em;
     .page__meta,
+      font-weight: 300;
+      font-size: 0.8em;
+      line-height: 1.8em;
     .page__share {
       position: relative;
       float: left;
@@ -65,13 +71,14 @@ body {
       width: 100%;
       clear: both;
       font-weight: 300;
-      font-size: 0.92em;
+      font-size: 0.8em;
       line-height: 1.8em;
     }
   }
 }
 
 .page__title {
+  font-size: 2em;
   margin-top: 0;
   line-height: 1;
 
