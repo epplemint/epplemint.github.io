@@ -1,15 +1,12 @@
 ---
 title:  "Gemified Theme -- Alpha Release"
 last_modified_at: 2018-03-20T16:00:58-04:00
-search: true
 categories: 
   - Jekyll
 tags:
   - update
 toc: true
-toc_sticky: true
 toc_label: "Getting Started"
-author_profile: false
 ---
 
 Jekyll [themes distributed as Ruby gems](http://jekyllrb.com/docs/themes/) are finally here to make installing and upgrading much easier. Gone are the days of forking a repo just to "install it". Or dealing with merge conflicts when pulling in upstream commits to "upgrade it".

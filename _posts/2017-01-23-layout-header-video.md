@@ -10,7 +10,6 @@ categories:
 tags:
   - video
   - layout
-  - author_profile: false
 ---
 
 This post should display a **header with a responsive video**, if the theme supports it.
