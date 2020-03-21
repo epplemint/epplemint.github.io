@@ -8,6 +8,7 @@ tags:
 toc: true
 toc_sticky: true
 toc_label: "Getting Started"
+author_profile: false
 ---
 
 Jekyll [themes distributed as Ruby gems](http://jekyllrb.com/docs/themes/) are finally here to make installing and upgrading much easier. Gone are the days of forking a repo just to "install it". Or dealing with merge conflicts when pulling in upstream commits to "upgrade it".
