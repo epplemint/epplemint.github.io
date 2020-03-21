@@ -8,6 +8,7 @@ tags:
 toc: true
 toc_sticky: true
 toc_label: "Getting Started"
+author_profile: false
 ---
 
 Hot on the heels of Jekyll v3.3.0 is a beta release of Minimal Mistakes... as a gemified theme.
