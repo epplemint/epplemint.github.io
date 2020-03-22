@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "공간과 문제"
 #title                    : "공간에 질문하고, 문제를 찾습니다."
 title_separator          : "-"
-subtitle                 :  "공간에질문하고문제를찾습니다" # site tagline that appears below site title in masthead
+subtitle                 :  "공간에질문하고 문제를찾습니다" # site tagline that appears below site title in masthead
 #subtitle                 :  "exploring where, and define the problem." # site tagline that appears below site title in masthead
 name                     : "David Bak"
 description              : " " #
