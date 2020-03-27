@@ -16,9 +16,11 @@ minimal_mistakes_skin    : "dirtmine" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "공간에 질문하고, 문제를 찾습니다."
+title                    : "문제의 공간"
+#title                    : "공간에 질문하고, 문제를 찾습니다."
 title_separator          : "-"
-subtitle                 :  "exploring where, and define the problem." # site tagline that appears below site title in masthead
+subtitle                 :  "공간에질문하고 문제를찾습니다" # site tagline that appears below site title in masthead
+#subtitle                 :  "exploring where, and define the problem." # site tagline that appears below site title in masthead
 name                     : "David Bak"
 description              : " " #
 url                      : https://epplemint.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
