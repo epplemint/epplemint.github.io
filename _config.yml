@@ -208,7 +208,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:tags/:title/
 paginate: 5 # amount of posts to show
 sort_reverse: true
 paginate_path: /page:num/
