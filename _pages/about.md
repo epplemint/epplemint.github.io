@@ -10,7 +10,7 @@ layout: single
 ### Motive.
 
 > 도시는 문제가 아니라, 해결책이다. <br>
-> City is not a problem, it's a solution. <br>
+> <b>City is not a problem, it's a solution. </b><br>
 <sub>JaimeLerner --- 'A song of the city', TED2007</sub>
 <br>
 
