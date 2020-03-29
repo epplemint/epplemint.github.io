@@ -7,10 +7,19 @@ layout: single
 #toc: true
 ---
 
-### 
+### Start from.
 
 > City is not a problem, it's a solution.  - Jaime Lerner
+
 <cite>Jaime Lerner</cite> --- "A song of the city", TED2007 {: .small}
+
+### Doing.
+
+exploring, measuring, and reviewing cities 
+
+### Mission.
+
+define, 
 
 <!-- 
 할 수 있는 일보다 하고 싶은 일이 많습니다. 
