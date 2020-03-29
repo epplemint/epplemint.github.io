@@ -17,20 +17,20 @@ layout: single
 
 ### Doing.
 
-공간(도시)를 탐구하고, 측정하고, 관찰합니다.<br> 
-exploring, measuring, and reviewing cities.<br>
+- 공간(도시)를 탐구하고, 측정하고, 관찰합니다.<br> 
+  Exploring, Measuring, and Reviewing Cities.<br>
 
 
 ### Mission.
 
-공간(도시)를 탐구하고, 측정하고, 관찰합니다.<br> 
-exploring, measuring, and reviewing cities.<br>
-
+- 공간(도시) 질문을 찾습니다.<br>
+  Definding Research Problems.<br>
+- 
 
 ### Note.
 
 - 공간(도시)분야 연구·협업의 기회를 찾습니다.
-- 블로그
+- 
 
 
 
