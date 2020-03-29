@@ -12,18 +12,19 @@ layout: single
 > 도시는 문제가 아니라, 해결책이다. <br>
 > City is not a problem, it's a solution. <br>
 <sub>JaimeLerner --- 'A song of the city', TED2007</sub>
+<br>
+
 
 ### Doing.
 
 공간(도시)를 탐구하고, 측정하고, 관찰합니다.<br> 
-exploring, measuring, and reviewing cities.
+exploring, measuring, and reviewing cities.<br>
 
-Learning : `R` , `Python`, `QGIS` <br>
-To Learn : `GO`
-{: .notice--info}
 
 ### Mission.
 
+공간(도시)를 탐구하고, 측정하고, 관찰합니다.<br> 
+exploring, measuring, and reviewing cities.<br>
 
 
 ### Note.
@@ -40,6 +41,10 @@ To Learn : `GO`
 | dd | dd | dd |
 |:-- | -- | --:|
 | aa | aa | aa |
+
+Learning : `R` , `Python`, `QGIS` <br>
+To Learn : `GO`
+{: .notice--info}
 -->
 
 
