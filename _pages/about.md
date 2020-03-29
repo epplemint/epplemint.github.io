@@ -24,7 +24,7 @@ layout: single
   Studying Methodologies and Tools of Analysis.<br>
 
 - <b>미래의 산업(의료·헬스케어,에너지)을 생각합니다.</b><br>
-  Thinking of the Industry of the future.<br>
+  Thinking of the Future's Industry.<br>
   especially, Medical-Healthcare, Energy Industry.
 
 
