@@ -11,8 +11,7 @@ layout: single
 
 > 도시는 문제가 아니라, 해결책이다. <br>
 > City is not a problem, it's a solution. <br>
-> JaimeLerner --- "A song of the city", TED2007
-*[JaimeLerner]: Jaime Lerner is a Brazilian politician. He is renowned as an architect and urban planner, having been mayor of Curitiba.
+<sub>JaimeLerner --- "A song of the city", TED2007</sub>
 
 ### Doing.
 
