@@ -18,16 +18,8 @@ layout: single
 공간(도시)를 탐구하고, 측정하고, 관찰합니다.<br> 
 exploring, measuring, and reviewing cities.
 
-#### Learning
-`R` , `Python`
-§Tool.
-`QGIS`
-
-#### To Learn
-§Lang. `Go`
-
-
-**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice--info}` class.
+Learning : `R` , `Python`, `QGIS`
+To Learn : `GO`
 {: .notice--info}
 
 ### Mission.
