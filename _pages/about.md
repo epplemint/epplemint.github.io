@@ -17,10 +17,10 @@ layout: single
 
 ### Doing.
 
-- <b>공간(도시)를 탐구하고, 측정하고, 관찰합니다.</b><br>
+- <b>공간(도시)을 탐구하고, 측정하고, 관찰합니다.</b><br>
   Exploring, Measuring, and Reviewing Cities.<br>
 
-- <b>연구방법론과 분석방법를 학습합니다.</b><br>
+- <b>연구방법론과 분석 방법을 학습합니다.</b><br>
   Studying Methodologies and Tools of Analysis.<br>
 
 - <b>미래의 산업(의료·헬스케어,에너지)을 생각합니다.</b><br>
@@ -36,15 +36,15 @@ layout: single
 - <b>질문을 정교화 합니다.</b><br>
   Refine the Research Problems.<br>
 
-- <b>의미있는 결과를 나눕니다.</b><br>
+- <b>의미 있는 결과를 나눕니다.</b><br>
   Share Meaningful Results Together.
 
 ### Note.
 
-- <b>오류에 대한 수정요청 환영합니다.</b><br>
+- <b>오류에 대한 수정요청을 환영합니다.</b><br>
   Welcome to the error correction request.<br>
 
-- <b>공간(도시)분야 연구·협업의 기회를 찾습니다.</b><br>
+- <b>공간(도시)분야 연구·협업 기회를 찾습니다.</b><br>
   Find opportunities for research and collaboration.<br>
 
 
