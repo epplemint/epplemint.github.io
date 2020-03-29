@@ -7,15 +7,16 @@ layout: single
 #toc: true
 ---
 
-### Start from.
+### Motive.
 
-> City is not a problem, it's a solution.  - Jaime Lerner
-
-<cite>Jaime Lerner</cite> --- "A song of the city", TED2007 {: .small}
+> 도시는 문제가 아니라, 해결책이다. <br>
+> City is not a problem, it's a solution. <br>
+> ##### Jaime Lerner --- "A song of the city", TED2007
 
 ### Doing.
 
-exploring, measuring, and reviewing cities 
+공간(도시)을 탐구하고, 측정하고, 관찰합니다.<br> 
+exploring, measuring, and reviewing cities.
 
 ### Mission.
 
