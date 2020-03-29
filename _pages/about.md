@@ -19,7 +19,6 @@ layout: single
 exploring, measuring, and reviewing cities.
 
 #### Learning
-§Lang.
 `R` , `Python`
 §Tool.
 `QGIS`
@@ -27,15 +26,18 @@ exploring, measuring, and reviewing cities.
 #### To Learn
 §Lang. `Go`
 
+
+**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice--info}` class.
+{: .notice--info}
+
 ### Mission.
 
 
 
 ### Note.
 
-공간(도시)분야 연구·협업의 기회를 찾습니다.
-
-
+- 공간(도시)분야 연구·협업의 기회를 찾습니다.
+- 블로그
 
 
 
