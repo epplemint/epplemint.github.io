@@ -4,7 +4,7 @@ categories:
   - Jekyll
 tags:
   - update
-sidebar: false
+author_profile: false
 ---
 
   - 네이버 클라우드 플랫폼 서버 등의 상품에서 외부 인터넷 통신을 하는 경우 작업 시간 동안 2 회 순단 발생할 가능성이 있습니다.
