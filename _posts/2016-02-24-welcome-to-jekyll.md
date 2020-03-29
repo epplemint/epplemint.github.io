@@ -1,29 +1,16 @@
 ---
-title:  "Welcome to Jekyll!"
-header:
-  teaser: "/assets/images/500x300.png"
+title:  "[긴급] 네이버클라우드플랫폼 네트워크 점검"
 categories: 
   - Jekyll
 tags:
   - update
+sidebar: false
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+  - 네이버 클라우드 플랫폼 서버 등의 상품에서 외부 인터넷 통신을 하는 경우 작업 시간 동안 2 회 순단 발생할 가능성이 있습니다.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+  - 순간적으로 아주 적은 Packet loss가 발생하므로 일반적인 웹 서비스(HTTP/HTTPS 기반)는 서비스 영향이 거의 없을 것으로 예상됩니다.
 
-Jekyll also offers powerful support for code snippets:
+    * 다만, TCP 방식의 세션 기반의 서비스일 경우(예. 온라인 게임) 순간적인 세션 단절이 낮은 확률로 발생할 수 있으나, 발생하더라도 TCP 재전송에 의해 서비스에 영향은 없을 것으로 예상됩니다.
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+  - 네이버 클라우드 플랫폼 내부 서버 간 통신(예. 웹 서버와 DB 서버 통신, 로그 수집이나 모니터링 수집을 위한 통신) 에는 영향이 없습니다.
