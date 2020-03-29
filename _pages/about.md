@@ -11,16 +11,33 @@ layout: single
 
 > 도시는 문제가 아니라, 해결책이다. <br>
 > City is not a problem, it's a solution. <br>
-<sub>JaimeLerner --- "A song of the city", TED2007</sub>
+<sub>JaimeLerner --- 'A song of the city', TED2007</sub>
 
 ### Doing.
 
-공간(도시)을 탐구하고, 측정하고, 관찰합니다.<br> 
+공간(도시)를 탐구하고, 측정하고, 관찰합니다.<br> 
 exploring, measuring, and reviewing cities.
+
+#### Learning
+§Lang.
+`R` , `Python`
+§Tool.
+`QGIS`
+
+#### To Learn
+§Lang. `Go`
 
 ### Mission.
 
-define, 
+
+
+### Note.
+
+공간(도시)분야 연구·협업의 기회를 찾습니다.
+
+
+
+
 
 <!-- 
 할 수 있는 일보다 하고 싶은 일이 많습니다. 
