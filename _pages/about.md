@@ -19,18 +19,28 @@ layout: single
 
 - 공간(도시)를 탐구하고, 측정하고, 관찰합니다.<br> 
   Exploring, Measuring, and Reviewing Cities.<br>
+- 연구방법론과 분석방법를 학습합니다.<br>
+  Studying Methodologies and Tools of Analysis.<br>
+- 미래의 산업(의료·헬스케어,에너지)을 생각합니다.<br>
+  Thinking of the Industry of the future.<br>
+  especially, Medical-Healthcare, Energy Industry.
 
 
 ### Mission.
 
 - 공간(도시) 질문을 찾습니다.<br>
-  Definding Research Problems.<br>
-- 
+  Define Research Problems.<br>
+- 질문을 정교화 합니다.<br>
+  Refine the Research Problems.<br>
+- 의미있는 결과를 나눕니다.<br>
+  Share Meaningful Results Together.
 
 ### Note.
 
-- 공간(도시)분야 연구·협업의 기회를 찾습니다.
-- 
+- 오류에 대한 수정요청 환영합니다.<br>
+  Welcome to the error correction request.<br>
+- 공간(도시)분야 연구·협업의 기회를 찾습니다.<br>
+  Find opportunities for research and collaboration.<br>
 
 
 
