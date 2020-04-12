@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dirtmine" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "en-US"
 #locale                   : "ko-KR"
-title                    : "문제의 공간"
+title                    : "공간문제×도시계획"
 #title                    : "공간에 질문하고, 문제를 찾습니다."
 title_separator          : "-"
 subtitle                 :  "공간에질문하고 문제를찾습니다" # site tagline that appears below site title in masthead
